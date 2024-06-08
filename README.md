@@ -15,7 +15,7 @@ Reference of the information; Learned during online sessions
 What is software engineering, and how does it differ from traditional programming?
 
 
-The Software Development Life Cycle consists of several phases which are gathering requirements and analysis, system design, implementation, testing, deployment and maintenance.
+
 
 Software engineering is a structured methodology that is discipled in developing software systems that employs engineering principles and systematic methodologies to develop softwares of high-quality.It is different from traditional programming in such a way that it emphesizes stractured development processes, lifecycle management and teamwork.The Software Development Life Cyle (SDLC) is a framework which processes and the guides software development through different phases such as gathering requirement, system designing, implementation, testing, deploying, and maintenance. 
 
@@ -23,8 +23,9 @@ Referencing; Learned some of the information in the online sessions.
 
 Software Development Life Cycle (SDLC):
 
-
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
+
+The Software Development Life Cycle consists of several phases which are gathering requirements and analysis, system design, implementation, testing, deployment and maintenance.
 
 SDLC assures software meets user requirements, is delivered on time, is within the budget and maintains quility through testing, validation and deployment.
 
